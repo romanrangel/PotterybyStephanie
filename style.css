@@ -1,4 +1,4 @@
-.jumbotron {
+.jumbotron1 {
     background-image: url("images/backgroundleaves.jpg");
     background-size: cover;
     min-height: 300px;
@@ -37,3 +37,12 @@
   .instabtn {
       background-color: rgb(250, 101, 126);
   }
+
+  .footer {
+    padding: 1%;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color:rgb(255, 79, 79);
+    color: white;
+}
