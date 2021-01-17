@@ -25,9 +25,9 @@
       padding-bottom:1%;
   }
 
-  .card {
-      padding: 2%;
-  }
+  /* .card {
+      padding: 1%;
+  } */
   
   .row {
       padding-left: 9%;
@@ -45,4 +45,12 @@
     text-align: center;
     background-color:rgb(255, 79, 79);
     color: white;
+}
+
+#MRR {
+    float:left;
+}
+
+#copyright {
+    float: right;
 }
