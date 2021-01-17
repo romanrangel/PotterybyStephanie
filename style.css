@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("images/backgroundleaves.jpg");
+    background-size: cover;
+    min-height: 300px;
+  }
+
+  /* .jumbotron{
+    background: url("images/backgroundleaves.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+} */
+
+/* .jumbotron {
+    background-image: url("images/backgroundleaves.jpg");
+    background-size: cover;
+    height: 100%;} */
