@@ -63,8 +63,9 @@ h6 {
 
 #imgcatalog {
     display: block;
-    margin-left: 36%;
-    margin-right: auto;
+    padding-left: 36%;
+    /* margin-left: 36%;
+    margin-right: 80%; */
     padding-top: 3%;
 }
 
