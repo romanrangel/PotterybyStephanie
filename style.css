@@ -3,17 +3,7 @@
     background-size: cover;
     min-height: 300px;
     text-align: center;
-
   };
- 
-  body {
-    /* background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed !important;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover; */
-    background: green !important;
-  }
 
   #header1 {
     text-align: center;
@@ -36,14 +26,6 @@
     text-align: center;
     background-color:rgb(255, 79, 79);
     color: white;
-}
-
-#MRR {
-    float:left;
-}
-
-#copyright {
-    float: right;
 }
 
 #featuredtext {
@@ -78,3 +60,20 @@ h6 {
     text-align: center;
     padding: 3%;
 }
+
+#imgcatalog {
+    display: block;
+    margin-left: 36%;
+    margin-right: auto;
+    padding-top: 3%;
+}
+
+#descripbtn {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+/* #itemdescription {
+    right: 50%;
+    left: 50%;
+} */
