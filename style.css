@@ -29,10 +29,10 @@
       padding: 1%;
   } */
   
-  .row {
+  /* .row {
       padding-left: 9%;
       padding-bottom: 5%;
-  }
+  } */
 
   .instabtn {
       background-color: rgb(250, 101, 126);
@@ -53,4 +53,24 @@
 
 #copyright {
     float: right;
+}
+
+#featuredtext {
+    padding-bottom: 2%;
+}
+
+h5 {
+    text-align: center;
+}
+
+#insta-logo {
+    text-align: center;
+}
+
+#price-sale {
+    text-align: center;
+}
+
+.caption {
+    padding: 2%;
 }
