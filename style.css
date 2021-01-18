@@ -104,3 +104,9 @@ input[type="radio"] {
 .bold {
     font-weight: bold
 }
+
+#imgsell {
+    margin-left:36%;
+    /* margin-right: 50%; */
+    margin-top: 5%;
+}
